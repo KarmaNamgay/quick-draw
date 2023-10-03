@@ -24,6 +24,6 @@ p{
 }
 
 @keyframes border_go_wow {
-    from{box-shadow: 15px 15px 20px 7px #FFBFBF;}
-    to{box-shadow: 15px 15px 20px 7px rgb(74, 174, 74);}
+    from{box-shadow: 15px 15px 20px 7px #bfecff;}
+    to{box-shadow: 15px 15px 20px 7px rgb(11, 21, 200);}
 }
